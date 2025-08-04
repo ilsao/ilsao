@@ -7,6 +7,5 @@
 
 
 
-🧑‍🎓 Computer Science Undergrad
-
+🧑‍🎓 **Computer Science Undergrad**  
 Currently studying **computer science** at National Yang Ming Chiao Tung University.
