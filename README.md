@@ -3,7 +3,7 @@
 # About me 📚
 
 
-| Game Design 🎮 | Reverse Engineering 🛡️ | Systems 🖥️ |
+| Game Design 🎮 | Computer Graphics 📹 | Systems 🖥️ |
 
 
 
