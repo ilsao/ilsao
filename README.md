@@ -7,5 +7,20 @@
 
 
 
-🧑‍🎓 **Computer Science Undergrad**  
-Currently studying **computer science** at National Yang Ming Chiao Tung University.
+🧑‍🎓 Undergraduate Student at National Yang Ming Chiao Tung University
+
+I am a first-year undergraduate student majoring in Computer Science at [National Yang Ming Chiao Tung University](https://www.nycu.edu.tw/nycu/en/index).
+
+**Research Assistant (RA)** | [Cognition and Science Learning Laboratory, NYCU](https://esciedu.lab.nycu.edu.tw/hcshe/?lang=en) | Since Jan 2026
+
+Responsible for building the backend of a science education website, using Go and Postgres, and adhering to the three-layer architecture (Handler -> Service -> Querier) in the development.
+
+**Member** | Software Development Club (SDC), NYCU
+
+Participate in team-based software development projects, focusing on hands-on software engineering practice and collaborative development with Git.
+
+Beyond academics, I have a passion for Chinese calligraphy.
+
+- Skills
+    - Programming: C/C++, Go, Python
+    - Tools: Vim, LaTeX, Git, Makefile, Unity
