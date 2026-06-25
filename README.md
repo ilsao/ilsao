@@ -3,7 +3,7 @@
 # About me 📚
 
 
-| Game Design 🎮 | Computer Graphics 📹 | Systems 🖥️ |
+| Efficient ML 🪄 | Computer Graphics 📹 | Systems 🖥️ |
 
 
 
